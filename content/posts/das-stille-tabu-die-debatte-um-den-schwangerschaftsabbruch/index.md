@@ -1,7 +1,7 @@
 +++
 title = "Das stille Tabu: Die Debatte um den Schwangerschaftsabbruch"
 date = "2024-04-26"
-draft = true
+draft = false
 pinned = false
 footnotes = "Abbildung 1: <https://pinkstinks.de/das-recht-auf-schwangerschaftsabbruch/>\n\nAbbildung 3: https://muvs.org/de/abbruch/medikamente/mifegyne-id1924/"
 +++
